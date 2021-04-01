@@ -44,10 +44,13 @@
 githubを使っているのにこんな方法になってしまい大変お恥ずかしいのですが、今できる解決策はこれしかありません。
 ここからダウンロードお願いいたします。
 
-https://25.gigafile.nu/0531-b6384a6fe3958198998825bd9d04819a5
+https://drive.google.com/file/d/13cejim0eMsYcwDibrOUoF6COH5WFwkYX/view?usp=sharing
 
 
 # 遊び方
+
+大音量が流れることがあります。
+音量に注意してください。
 
 WASDキーで移動できます。
 
